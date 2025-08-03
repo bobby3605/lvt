@@ -39,6 +39,18 @@
     margin-right: 0;
     font-weight: bold;
   }
+
+  #small-summary {
+    color: #FAF9F6;
+    font-size: 1.17em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+
+
   section {
     scroll-margin-top: 100px;
   }
